@@ -2,9 +2,9 @@
 
 ## AI & ML Engineer | AI Agents • Automation • Intelligent Systems
 
-I build AI-powered systems that move beyond prediction and into **reasoning, tool use, automation, and real-world execution**.
+I build AI-powered systems that move beyond prediction into **reasoning, tool use, automation, and real-world execution**.
 
-My work combines a foundation in **Data Science & Machine Learning** with a growing focus on **AI agents, agentic workflows, automation, and production AI applications**.
+My work combines a foundation in **Data Science & Machine Learning** with a focus on **AI agents, agentic workflows, automation, and production AI applications**.
 
 ### My progression
 
@@ -21,12 +21,16 @@ An autonomous agent that takes a creative brief through planning, human approval
 
 **Amazon Strands Agents SDK · Amazon Bedrock · Amazon Polly · Python · FFmpeg**
 
+[Project repo](https://github.com/tafeemamair/Tafs-Pilot) · [AWS Builder article](https://builder.aws.com/content/3JF2pSTTULiKU003uCk2jd9e5LF/agents-for-humans-building-tafs-pilot-an-autonomous-ai-video-production-agent-with-strands) · [Devpost](https://devpost.com/software/taf-s-pilot)
+
 ### [Creator Retention Coach](https://github.com/tafeemamair/creator-retention-coach)
-**Production AI Product**
+**AI-Powered Creator Analytics Product**
 
-An AI-powered product focused on helping creators understand and improve content retention through a practical production-ready application.
+A production AI product that analyzes creator scripts for retention signals and turns them into actionable insights, rewrites, and content recommendations.
 
-**TypeScript · AI · Web Application**
+**TypeScript · Next.js · OpenAI · Razorpay · AI Analytics**
+
+[Project repo](https://github.com/tafeemamair/creator-retention-coach) · [Live product](https://creatorretentioncoach.in)
 
 ### [Verified Shopping Assistant](https://github.com/tafeemamair/verified-shopping-assistant)
 **Trustworthy AI Agent**
@@ -35,12 +39,16 @@ A spec-driven shopping agent that uses tool calling and deterministic deal-verif
 
 **Google ADK · Gemini · Python · Tool Calling · Deterministic Policies · Security Guardrails**
 
+[Project repo](https://github.com/tafeemamair/verified-shopping-assistant) · [Demo](https://youtu.be/CEaaKyLaHJM) · [Kaggle write-up](https://www.kaggle.com/)
+
 ### [AI Video Factory](https://github.com/tafeemamair/ai-video-factory)
-**AI Production Pipeline**
+**Deterministic Media Production Pipeline**
 
-A scene-driven video production pipeline that transforms structured scripts into captioned video deliverables.
+A scene-driven production pipeline that transforms structured scripts into validated, captioned video deliverables using deterministic asset resolution, FFmpeg rendering, and media-level quality checks.
 
-**Python · AI · FFmpeg**
+**Python · FFmpeg · FFprobe · Automation · Media Validation**
+
+[Project repo](https://github.com/tafeemamair/ai-video-factory)
 
 ---
 
@@ -60,7 +68,7 @@ Areas I've worked with include:
 
 My earlier projects include customer churn prediction, fraud detection, employee attrition, salary prediction, loan approval, house-price prediction, and facial emotion detection.
 
-This foundation remains an important part of how I approach modern AI systems: understanding the data, defining the problem, evaluating outcomes, and then choosing the right intelligent system or automation layer.
+This foundation remains an important part of how I approach modern AI systems: understanding the data, defining the problem, evaluating outcomes, and choosing the right intelligent system or automation layer.
 
 ---
 
