@@ -39,7 +39,7 @@ A spec-driven shopping agent that uses tool calling and deterministic deal-verif
 
 **Google ADK · Gemini · Python · Tool Calling · Deterministic Policies · Security Guardrails**
 
-[Project repo](https://github.com/tafeemamair/verified-shopping-assistant) · [Demo](https://youtu.be/CEaaKyLaHJM) · [Kaggle write-up](https://www.kaggle.com/)
+[Project repo](https://github.com/tafeemamair/verified-shopping-assistant) · [Demo](https://youtu.be/CEaaKyLaHJM)
 
 ### [AI Video Factory](https://github.com/tafeemamair/ai-video-factory)
 **Deterministic Media Production Pipeline**
